@@ -1,4 +1,7 @@
 /*SamHunkler
+Jacob Leusch
+Brittany Posner
+Jacob Warner
 */
 import java.util.*;
 
