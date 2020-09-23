@@ -16,7 +16,6 @@ class Main {
     createRange(range);
     int number = r.nextInt(range);
     System.out.println("A Random Number has been Generated!");
-    System.out.println(number);
     playGame(number, range);
 
   }
